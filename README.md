@@ -35,27 +35,6 @@ For reproducibility, we provide the benchmark instances used in our experiments 
 
 The dataset is organized by difficulty level (LOW / MOD) and job size $n$. Each folder contains 50 instances for the corresponding job size.
 
-```text
-.
-├── LOW/
-│   ├── n10/
-│   │   ├── inst_001.txt
-│   │   ├── inst_002.txt
-│   │   └── ...
-│   ├── n20/
-│   │   ├── inst_001.txt
-│   │   └── ...
-│   └── ...
-├── MOD/
-│   ├── n10/
-│   │   ├── inst_001.txt
-│   │   └── ...
-│   ├── n20/
-│   │   ├── inst_001.txt
-│   │   └── ...
-│   └── ...
-└── README.md
-
 ---
 
 ## ⚠️ Notes
