@@ -4,17 +4,15 @@
 
 This repository provides the benchmark instances used in our computational experiments.
 
-The instances are based on the LOW and MOD benchmark sets from \citet{perez2018single} and are shared to ensure full reproducibility of our results.
+The instances are based on the LOW and MOD benchmark sets and are shared to ensure full reproducibility of our results.
 
 ---
 
 ## 🔍 Dataset Description
 
-We use two sets of benchmark instances—referred to as the **LOW** set and **MOD** set—from \citet{perez2018single}. They consider fourteen different job sizes,
+We use two sets of benchmark instances—referred to as the **LOW** set and **MOD** set. They consider fourteen different job sizes,
 
-$$
-n \in \{10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250, 300\},
-$$
+n = {10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 150, 200, 250, 300},
 
 and assume that each job processing time follows a uniform distribution,
 
