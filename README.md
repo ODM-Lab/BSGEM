@@ -1,1 +1,1 @@
-# An Exact Binary Search-Based Approach for Single-Machine Scheduling with Periodic Unavailability
+# An Exact Optimization Approach for Single-Machine Scheduling under Periodic Unavailability: A Binary Search-Guided Framework
