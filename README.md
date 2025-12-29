@@ -55,3 +55,14 @@ The dataset is organized by difficulty level (LOW / MOD) and job size $n$. Each 
 │   │   └── ...
 │   └── ...
 └── README.md
+
+### ⚠️ Notes
+
+- All data are synthetic and were generated for the purpose of algorithm testing and performance evaluation.
+- File formats are in CSV for ease of use.
+- Use these datasets in conjunction with the scheduling framework code for full experimental replication.
+
+### 📄 License
+
+This dataset is released for **academic and research purposes only**. Please cite our paper if you use this data in your work:
+
